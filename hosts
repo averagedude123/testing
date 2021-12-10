@@ -1,3 +1,6 @@
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
 # Date: 10 December 2021 02:38:18 (UTC)
 # Extensions added to this file: fakenews, gambling, porn, social
 # Number of unique domains: 145,268
@@ -33,5 +36,9 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 wizhumpgyros.com
+0.0.0.0 coccyxwickimp.com
 0.0.0.0 promobit.com.br
 0.0.0.0 gafanho.to
+0.0.0.0 www.gafanho.to
+0.0.0.0 www.promobit.com.br
